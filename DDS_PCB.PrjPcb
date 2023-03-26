@@ -1192,6 +1192,10 @@ DocumentPath=Project Outputs for DDS_PCB\DDS_PCB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for DDS_PCB\DDS_PCB_BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for DDS_PCB\Net Status - DDS_PCB.html
 DItemRevisionGUID=
 

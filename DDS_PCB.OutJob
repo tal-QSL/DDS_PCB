@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Altium\DDS_PCB\.PDF
+OutputFilePath2=C:\Github\DDS_PCB\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Altium\DDS_PCB\
+OutputBasePath2=C:\Github\DDS_PCB\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Altium\DDS_PCB\.PDF
+RelativeOutputPath2=C:\Github\DDS_PCB\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
