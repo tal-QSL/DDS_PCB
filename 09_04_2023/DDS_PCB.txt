@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : E:\Projects\Q-Labs\DDS_PCB\DDS_PCB.PcbDoc
+Date         : 4/6/2023
+Time         : 6:57:11 PM
+Time Elapsed : 00:00:00
+
+Net Track Width, Count
+    6mils, 250
+    10mils, 16
+count : 2
